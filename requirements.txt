@@ -1,0 +1,7 @@
+quart
+langchain
+langgraph
+python-dotenv
+fastmcp
+ollama
+ollama
